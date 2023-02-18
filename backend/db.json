@@ -2,219 +2,219 @@
   "categories": [
     {
       "id": 1,
-      "nama": "Makanan"
+      "name": "Makanan"
     },
     {
       "id": 2,
-      "nama": "Minuman"
+      "name": "Minuman"
     },
     {
       "id": 3,
-      "nama": "Cemilan"
+      "name": "Cemilan"
     }
   ],
   "products": [
     {
       "id": 1,
-      "kode": "K-01",
-      "nama": "Sate Ayam",
-      "harga": 16000,
+      "code": "K-01",
+      "name": "Sate Ayam",
+      "price": 16000,
       "is_ready": true,
-      "gambar": "sate-ayam.jpg",
+      "image": "images/makanan/sate-ayam.jpg",
       "category": {
         "id": 1,
-        "nama": "Makanan"
+        "name": "Makanan"
       }
     },
     {
       "id": 2,
-      "kode": "K-02",
-      "nama": "Nasi Goreng Telur",
-      "harga": 14000,
+      "code": "K-02",
+      "name": "Nasi Goreng Telur",
+      "price": 14000,
       "is_ready": true,
-      "gambar": "nasi-goreng-telor.jpg",
+      "image": "images/makanan/nasi-goreng-telor.jpg",
       "category": {
         "id": 1,
-        "nama": "Makanan"
+        "name": "Makanan"
       }
     },
     {
       "id": 3,
-      "kode": "K-03",
-      "nama": "Nasi Rames",
-      "harga": 12000,
+      "code": "K-03",
+      "name": "Nasi Rames",
+      "price": 12000,
       "is_ready": true,
-      "gambar": "nasi-rames.jpg",
+      "image": "images/makanan/nasi-rames.jpg",
       "category": {
         "id": 1,
-        "nama": "Makanan"
+        "name": "Makanan"
       }
     },
     {
       "id": 4,
-      "kode": "K-04",
-      "nama": "Lontong Opor Ayam",
-      "harga": 18000,
+      "code": "K-04",
+      "name": "Lontong Opor Ayam",
+      "price": 18000,
       "is_ready": true,
-      "gambar": "lontong-opor-ayam.jpg",
+      "image": "images/makanan/lontong-opor-ayam.jpg",
       "category": {
         "id": 1,
-        "nama": "Makanan"
+        "name": "Makanan"
       }
     },
     {
       "id": 5,
-      "kode": "K-05",
-      "nama": "Mie Goreng",
-      "harga": 13000,
+      "code": "K-05",
+      "name": "Mie Goreng",
+      "price": 13000,
       "is_ready": true,
-      "gambar": "mie-goreng.jpg",
+      "image": "images/makanan/mie-goreng.jpg",
       "category": {
         "id": 1,
-        "nama": "Makanan"
+        "name": "Makanan"
       }
     },
     {
       "id": 6,
-      "kode": "K-06",
-      "nama": "Bakso",
-      "harga": 10000,
+      "code": "K-06",
+      "name": "Bakso",
+      "price": 10000,
       "is_ready": true,
-      "gambar": "bakso.jpg",
+      "image": "images/makanan/bakso.jpg",
       "category": {
         "id": 1,
-        "nama": "Makanan"
+        "name": "Makanan"
       }
     },
     {
       "id": 7,
-      "kode": "K-07",
-      "nama": "Mie Ayam Bakso",
-      "harga": 14000,
+      "code": "K-07",
+      "name": "Mie Ayam Bakso",
+      "price": 14000,
       "is_ready": true,
-      "gambar": "mie-ayam-bakso.jpg",
+      "image": "images/makanan/mie-ayam-bakso.jpg",
       "category": {
         "id": 1,
-        "nama": "Makanan"
+        "name": "Makanan"
       }
     },
     {
       "id": 8,
-      "kode": "K-08",
-      "nama": "Pangsit 6 pcs",
-      "harga": 5000,
+      "code": "K-08",
+      "name": "Pangsit 6 pcs",
+      "price": 5000,
       "is_ready": true,
-      "gambar": "pangsit.jpg",
+      "image": "images/cemilan/pangsit.jpg",
       "category": {
         "id": 3,
-        "nama": "Cemilan"
+        "name": "Cemilan"
       }
     },
     {
       "id": 9,
-      "kode": "K-09",
-      "nama": "Kentang Goreng",
-      "harga": 5000,
+      "code": "K-09",
+      "name": "Kentang Goreng",
+      "price": 5000,
       "is_ready": true,
-      "gambar": "kentang-goreng.jpg",
+      "image": "images/cemilan/kentang-goreng.jpg",
       "category": {
         "id": 3,
-        "nama": "Cemilan"
+        "name": "Cemilan"
       }
     },
     {
       "id": 10,
-      "kode": "K-010",
-      "nama": "Cheese Burger",
-      "harga": 15000,
+      "code": "K-010",
+      "name": "Cheese Burger",
+      "price": 15000,
       "is_ready": true,
-      "gambar": "cheese-burger.jpg",
+      "image": "images/cemilan/cheese-burger.jpg",
       "category": {
         "id": 3,
-        "nama": "Cemilan"
+        "name": "Cemilan"
       }
     },
     {
       "id": 11,
-      "kode": "K-011",
-      "nama": "Coffe Late",
-      "harga": 15000,
+      "code": "K-011",
+      "name": "Coffe Late",
+      "price": 15000,
       "is_ready": true,
-      "gambar": "coffe-late.jpg",
+      "image": "images/minuman/coffe-late.jpg",
       "category": {
         "id": 2,
-        "nama": "Minuman"
+        "name": "Minuman"
       }
     },
     {
       "id": 12,
-      "kode": "K-012",
-      "nama": "Es Jeruk",
-      "harga": 7000,
+      "code": "K-012",
+      "name": "Es Jeruk",
+      "price": 7000,
       "is_ready": true,
-      "gambar": "es-jeruk.jpg",
+      "image": "images/minuman/es-jeruk.jpg",
       "category": {
         "id": 2,
-        "nama": "Minuman"
+        "name": "Minuman"
       }
     },
     {
       "id": 13,
-      "kode": "K-013",
-      "nama": "Es Teh",
-      "harga": 5000,
+      "code": "K-013",
+      "name": "Es Teh",
+      "price": 5000,
       "is_ready": true,
-      "gambar": "es-teh.jpg",
+      "image": "images/minuman/es-teh.jpg",
       "category": {
         "id": 2,
-        "nama": "Minuman"
+        "name": "Minuman"
       }
     },
     {
       "id": 14,
-      "kode": "K-014",
-      "nama": "Teh Hangat",
-      "harga": 3000,
+      "code": "K-014",
+      "name": "Teh Hangat",
+      "price": 3000,
       "is_ready": true,
-      "gambar": "teh-hangat.jpg",
+      "image": "images/minuman/teh-hangat.jpg",
       "category": {
         "id": 2,
-        "nama": "Minuman"
+        "name": "Minuman"
       }
     }
   ],
-  "keranjangs": [
+  "shopping_carts": [
     {
-      "jumlah": 1,
-      "total_harga": 10000,
+      "amount": 1,
+      "total_price": 10000,
       "product": {
         "id": 6,
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
+        "code": "K-06",
+        "name": "Bakso",
+        "price": 10000,
         "is_ready": true,
-        "gambar": "bakso.jpg",
+        "image": "images/makanan/bakso.jpg",
         "category": {
           "id": 1,
-          "nama": "Makanan"
+          "name": "Makanan"
         }
       },
       "keterangan": "Bakso Kosongan",
       "id": 1
     },
     {
-      "jumlah": 1,
-      "total_harga": 13000,
+      "amount": 1,
+      "total_price": 13000,
       "product": {
         "id": 5,
-        "kode": "K-05",
-        "nama": "Mie Goreng",
-        "harga": 13000,
+        "code": "K-05",
+        "name": "Mie Goreng",
+        "price": 13000,
         "is_ready": true,
-        "gambar": "mie-goreng.jpg",
+        "image": "images/makanan/mie-goreng.jpg",
         "category": {
           "id": 1,
-          "nama": "Makanan"
+          "name": "Makanan"
         }
       },
       "id": 2
@@ -225,36 +225,36 @@
       "total_bayar": 60000,
       "menus": [
         {
-          "jumlah": 2,
-          "total_harga": 32000,
+          "amount": 2,
+          "total_price": 32000,
           "product": {
             "id": 1,
-            "kode": "K-01",
-            "nama": "Sate Ayam",
-            "harga": 16000,
+            "code": "K-01",
+            "name": "Sate Ayam",
+            "price": 16000,
             "is_ready": true,
-            "gambar": "sate-ayam.jpg",
+            "image": "images/makanan/sate-ayam.jpg",
             "category": {
               "id": 1,
-              "nama": "Makanan"
+              "name": "Makanan"
             }
           },
           "keterangan": "Semuanya Pedas",
           "id": 1
         },
         {
-          "jumlah": 2,
-          "total_harga": 28000,
+          "amount": 2,
+          "total_price": 28000,
           "product": {
             "id": 2,
-            "kode": "K-02",
-            "nama": "Nasi Goreng Telur",
-            "harga": 14000,
+            "code": "K-02",
+            "name": "Nasi Goreng Telur",
+            "price": 14000,
             "is_ready": true,
-            "gambar": "nasi-goreng-telor.jpg",
+            "image": "images/makanan/nasi-goreng-telor.jpg",
             "category": {
               "id": 1,
-              "nama": "Makanan"
+              "name": "Makanan"
             }
           },
           "id": 3
